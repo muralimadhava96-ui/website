@@ -1,0 +1,11 @@
+{
+  "name": "shortest-paths",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "check:links": "node scripts/checkLinks.js"
+  },
+  "devDependencies": {
+    "markdown-link-check": "^4.0.0"
+  }
+}
